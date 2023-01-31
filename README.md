@@ -10,7 +10,8 @@
 
 <details>
   <summary>what i do outside of the internet?</summary>
-        <summary>Nothing</summary>
+  <details>
+    <summary>Nothing</summary>
   <ul>
     <li>Eintrag 1</li>
     <li>Eintrag 2</li>
