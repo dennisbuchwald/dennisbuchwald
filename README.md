@@ -17,7 +17,7 @@
             <details>
             <summary>you really want to know?</summary>
   <ul>
-    <li>🎶 I am techno DJ and spin record in clubs on weekends </li>
+    <li>🎶 I am techno DJ and spin record in clubs on weekends. Look [here](https://www.instagram.com/loss_of_reality)</li>
     <li>Eintrag 2</li>
     <li>Eintrag 3</li>
   </ul>
