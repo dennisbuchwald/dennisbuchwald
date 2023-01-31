@@ -18,8 +18,8 @@
             <summary>you really want to know?</summary>
   <ul>
     <li>🎶 I am techno DJ and spin record in clubs on weekends. Look <a href="https://www.instagram.com/loss_of_reality">here.</a></li>
-    <li>Eintrag 2</li>
-    <li>Eintrag 3</li>
+    <li>🪴 I have a green thumb and a jungle at home.</li>
+    <li>👨🏼‍🍳 I love cooking, it's like meditation for me. </li>
   </ul>
 </details>
 
