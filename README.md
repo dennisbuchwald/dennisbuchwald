@@ -17,7 +17,7 @@
             <details>
             <summary>you really want to know?</summary>
   <ul>
-    <li>Eintrag 1</li>
+    <li>🎶 I am techno DJ and spin record in clubs on weekends </li>
     <li>Eintrag 2</li>
     <li>Eintrag 3</li>
   </ul>
