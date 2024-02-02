@@ -23,3 +23,5 @@
   </ul>
 </details>
 
+
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6RtH7u7pQofFwiP43SDqkw?color=000000&logo=youtube&logoColor=FF0000&labelColor=000&style=for-the-badge)][(https://www.youtube.com/@DennisBuchwald)https://www.youtube.com/@DennisBuchwald)
