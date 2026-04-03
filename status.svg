@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="28">
+  <defs>
+    <linearGradient id="dbw" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ea2b1f"/>
+      <stop offset="25%"  stop-color="#ff3c6f"/>
+      <stop offset="50%"  stop-color="#ff4fdd"/>
+      <stop offset="75%"  stop-color="#7e56ff"/>
+      <stop offset="100%" stop-color="#00b2ff"/>
+    </linearGradient>
+    <clipPath id="pill"><rect width="320" height="28" rx="5"/></clipPath>
+  </defs>
+  <g clip-path="url(#pill)">
+    <rect width="145" height="28" fill="#161b22"/>
+    <rect x="145" width="175" height="28" fill="url(#dbw)"/>
+  </g>
+  <text x="10" y="18" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11" fill="#9ca3af">currently building</text>
+  <text x="155" y="18" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11" font-weight="bold" fill="white">WordCamp Wien Talk</text>
+</svg>
