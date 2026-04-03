@@ -65,7 +65,7 @@
   <!-- Status bar with ADHS progress -->
   <text class="l12" x="20" y="308"><tspan class="label">  Status : </tspan></text>
   <text class="l12" x="106" y="308" clip-path="url(#bar-clip)">████████████</text>
-  <text class="l12b" x="20" y="328"><tspan class="label">           </tspan><tspan>ADHS: 100% loaded. Irgendwie.</tspan></text>
+  <text class="l12b" x="20" y="328"><tspan class="label">           </tspan><tspan>ADHS: 100% loaded.</tspan></text>
 
   <!-- cat willkommen.txt -->
   <text class="l13" x="20" y="365"><tspan class="dim">$</tspan><tspan> cat willkommen.txt</tspan></text>
