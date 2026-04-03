@@ -30,7 +30,7 @@ $ cat mission.txt
 
 Ein vollständig browserbasierter Pokémon-Kampfsimulator — mit echten Gen-1-Moves, Typen-Matchups und dem ganzen Nostalgie-Faktor.
 
-**➜ [pokemon-battler.dennisbuchwald.de](https://pokemon-battler.dennisbuchwald.de/)**
+**➜ [pokemon-battler.dennisbuchwald.de](https://pokemon-battler.dennisbuchwald.de/)** · [GitHub Repo](https://github.com/dennisbuchwald/capstone-project-pokemon-battler)
 
 ---
 
@@ -41,10 +41,10 @@ Ein vollständig browserbasierter Pokémon-Kampfsimulator — mit echten Gen-1-M
 ```
 ╭──────────────────────────────────────────────╮
 │  Frontend    →  HTML · CSS/SCSS · JavaScript │
+│  Frameworks  →  React · Next.js              │
 │  CMS         →  WordPress · PHP              │
 │  Automation  →  n8n                          │
 │  Tooling     →  Webpack · Vite · Git         │
-│  Sonstiges   →  React (Gutenberg) · REST API │
 ╰──────────────────────────────────────────────╯
 ```
 
