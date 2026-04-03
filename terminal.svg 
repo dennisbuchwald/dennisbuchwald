@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" width="700" height="480">
+  <defs>
+    <style>
+      text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 13px;
+        fill: #00FF41;
+      }
+      .dim    { fill: #6e7681; }
+      .green  { fill: #28CA41; }
+      .blue   { fill: #00B2FF; }
+      .label  { fill: #6e7681; }
+
+      @keyframes appear {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%,100% { opacity: 0; }
+      }
+
+      .l1  { opacity:0; animation: appear .05s  .3s both; }
+      .l2  { opacity:0; animation: appear .05s  .8s both; }
+      .l3  { opacity:0; animation: appear .05s 1.3s both; }
+      .l4  { opacity:0; animation: appear .05s 1.8s both; }
+      .l5  { opacity:0; animation: appear .05s 2.3s both; }
+      .l6  { opacity:0; animation: appear .05s 2.8s both; }
+      .l7  { opacity:0; animation: appear .05s 3.7s both; }
+      .l8  { opacity:0; animation: appear .05s 4.2s both; }
+      .l9  { opacity:0; animation: appear .05s 4.5s both; }
+      .l10 { opacity:0; animation: appear .05s 4.8s both; }
+      .l11 { opacity:0; animation: appear .05s 5.1s both; }
+      .l12 { opacity:0; animation: appear .05s 5.4s both; }
+      .l13 { opacity:0; animation: appear .05s 6.1s both; }
+      .l14 { opacity:0; animation: appear .05s 6.6s both; }
+      .l15 { opacity:0; animation: appear .05s 6.9s both; }
+      .l16 { opacity:0; animation: appear .05s 7.2s both; }
+      .cursor { opacity:0; animation: appear .05s 7.5s both, blink 1s 7.5s infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="480" fill="#0d1117" rx="10"/>
+
+  <!-- Title bar -->
+  <rect width="700" height="38" fill="#161b22" rx="10"/>
+  <rect y="28" width="700" height="10" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="19" r="6" fill="#FF5F57"/>
+  <circle cx="44" cy="19" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="19" r="6" fill="#28CA41"/>
+
+  <!-- Title -->
+  <text x="350" y="24" text-anchor="middle" class="dim" font-size="12">dennis.exe — bash</text>
+
+  <!-- Boot sequence -->
+  <text class="l1" x="20" y="68"><tspan class="dim">[INIT]</tspan><tspan>     booting dennis.exe ...</tspan></text>
+  <text class="l2" x="20" y="88"><tspan class="green">[OK]</tspan><tspan>       kernel loaded</tspan></text>
+  <text class="l3" x="20" y="108"><tspan class="green">[OK]</tspan><tspan>       caffeine.module activated</tspan></text>
+  <text class="l4" x="20" y="128"><tspan class="green">[OK]</tspan><tspan>       wordpress.core started</tspan></text>
+  <text class="l5" x="20" y="148"><tspan class="green">[OK]</tspan><tspan>       bullshit.filter enabled</tspan></text>
+  <text class="l6" x="20" y="168"><tspan class="blue">[ACCESS]</tspan><tspan>   GRANTED — willkommen.</tspan></text>
+
+  <!-- whoami -->
+  <text class="l7"  x="20" y="200"><tspan class="dim">$</tspan><tspan> whoami</tspan></text>
+  <text class="l8"  x="20" y="228"><tspan class="label">  Name   : </tspan><tspan>Dennis Buchwald</tspan></text>
+  <text class="l9"  x="20" y="248"><tspan class="label">  Role   : </tspan><tspan>Gruender @ dbw media</tspan></text>
+  <text class="l10" x="20" y="268"><tspan class="label">  Based  : </tspan><tspan>Heilbronn, DE</tspan></text>
+  <text class="l11" x="20" y="288"><tspan class="label">  Fokus  : </tspan><tspan>WordPress · SEO · Conversion · Automation</tspan></text>
+  <text class="l12" x="20" y="308"><tspan class="label">  Status : </tspan><tspan>████████████ 100% Kaffee. Bereit.</tspan></text>
+
+  <!-- mission -->
+  <text class="l13" x="20" y="340"><tspan class="dim">$</tspan><tspan> cat mission.txt</tspan></text>
+  <text class="l14" x="20" y="370"><tspan>  Ich mache Websites zum besten Mitarbeiter im Team.</tspan></text>
+  <text class="l15" x="20" y="390"><tspan>  24/7 verfuegbar. Nie krank. Nie im Urlaub.</tspan></text>
+  <text class="l16" x="20" y="410"><tspan>  Und deutlich guenstiger als der letzte Praktikant.</tspan></text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="20" y="428" width="8" height="15" fill="#00FF41"/>
+</svg>

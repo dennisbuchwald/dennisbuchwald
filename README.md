@@ -1,4 +1,4 @@
-<!-- 
+<!--
   Wenn du das hier liest: Respekt. Neugier ist eine Tugend.
   Meld dich gerne: https://dbw-media.de
 -->
@@ -11,28 +11,11 @@
 
 ---
 
-```bash
-[INIT]     booting dennis.exe ...
-[OK]       kernel loaded
-[OK]       caffeine.module activated
-[OK]       wordpress.core started
-[OK]       bullshit.filter enabled
-[ACCESS]   GRANTED — willkommen.
+![terminal](./terminal.svg)
 
-$ whoami
+---
 
-  Name   : Dennis Buchwald
-  Role   : Gründer @ dbw media
-  Based  : Heilbronn, DE 🇩🇪
-  Fokus  : WordPress · SEO · Conversion · Automation
-  Status : ██████████ 100% Kaffee. Bereit.
-
-$ cat mission.txt
-
-  Ich mache Websites zum besten Mitarbeiter im Team.
-  24/7 verfügbar. Nie krank. Nie im Urlaub.
-  Und deutlich günstiger als der letzte Praktikant.
-```
+![Currently building](https://img.shields.io/badge/Currently%20building-WordCamp%20Wien%20Talk-00FF41?style=flat-square&labelColor=0d1117&logo=terminal&logoColor=00FF41)
 
 ---
 
