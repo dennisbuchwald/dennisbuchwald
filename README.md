@@ -7,7 +7,7 @@
 
 ---
 
-<img src="./status.svg" alt="currently building"/>
+<a href="https://vienna.wordcamp.org/2026/session/schluss-mit-was-kostet-eine-website-so-machst-du-dich-als-dienstleister-unvergleichlich/"><img src="./status.svg" alt="currently building – WordCamp Wien Talk"/></a>
 
 ---
 
