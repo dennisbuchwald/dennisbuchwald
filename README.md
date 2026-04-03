@@ -11,11 +11,7 @@
 
 ---
 
-<div align="center">
-
 <img src="./status.svg" alt="currently building"/>
-
-</div>
 
 ---
 
