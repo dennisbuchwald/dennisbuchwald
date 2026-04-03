@@ -5,17 +5,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=Hallo+Welt+%F0%9F%91%8B;Ich+bin+Dennis.;Gr%C3%BCnder+von+dbw+media+%F0%9F%9A%80;Ich+mache+Websites+zu+besten+Mitarbeitern+im+Team.;Lass+uns+reden.+%E2%9D%A4%EF%B8%8F)](https://dbw-media.de)
-
-</div>
-
----
-
 ![terminal](./terminal.svg)
 
----
+<img src="./status.svg" alt="currently building"/>
 
-![Currently building](https://img.shields.io/badge/Currently%20building-WordCamp%20Wien%20Talk-00FF41?style=flat-square&labelColor=0d1117&logo=terminal&logoColor=00FF41)
+</div>
 
 ---
 
